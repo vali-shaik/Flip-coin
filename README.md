@@ -3,7 +3,7 @@ Java program to implement a data structure from basic objects
 
 Problem
 ===========
-Write a class called “ListHierarchy” that accepts data values and then lets you search the list to
+Write a class that accepts data values and then lets you search the list to
 see if a value is in the list. The key part of the class is in the data structure that it uses to store
 the data.
 The data structure will have a random behavior to it. For testing purposes, the constructor for
